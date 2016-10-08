@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test_git_android</string>
+    <string name="dialog">Show Dialog</string>
+    <string name="yeuCau">Hãy nhập tên thiện nam / tín nữ</string>
+    <string name="ghiChu">(Đầy đủ họ tên)</string>
+    <string name="batDau"></string>
+</resources>
